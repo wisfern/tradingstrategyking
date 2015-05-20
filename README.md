@@ -1,6 +1,9 @@
 # tradingstrategyking
 Automatically exported from code.google.com/p/tradingstrategyking
 
+# 解析与应用
+http://blog.sina.com.cn/s/blog_671f486a0102uy28.html
+
 # 策略为王 #
 
  ★★1.编译注意事项   
